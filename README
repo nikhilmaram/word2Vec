@@ -6,7 +6,7 @@ run_glove    : runs the glove file.
 
 The run file (run_word2vec, run_glove) assumes the following inputs:
 1. text file : which contains the corpus
-2. Dictionary file : which contains the dictionary words
-3. vectors file : An output file, which contain the output embedding vectors.
+2. Dictionary file(vocab.txt) : which contains the dictionary words
+3. vectors file(vectors.txt) : An output file, which contain the output embedding vectors.
 
 The text file and dictionary file used for this are included.
